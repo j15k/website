@@ -1,3 +1,6 @@
 [submodule "stylesheets"]
 	path = _src/_includes/stylesheets
 	url = git@github.com:j15k/stylesheets.git
+[submodule "layouts"]
+	path = _src/_includes/layouts
+	url = git@github.com:j15k/layouts.git
