@@ -1,0 +1,34 @@
+# GENERAL 
+# files types
+*.*~
+.~lock.*
+.*#
+*.*~
+*.bak
+*.doc
+*.docx
+*.env
+*.gho
+*.log
+*.ods
+*.ori
+*.png
+*.swp
+*.swo
+*.tmp
+*.vim
+*.xls
+*.xlsx
+
+# Jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+# 11ty
+.temp
+_site
+node_modules
+vendor
