@@ -1,0 +1,3 @@
+[submodule "stylesheets"]
+	path = _src/_includes/stylesheets
+	url = git@github.com:j15k/stylesheets.git
